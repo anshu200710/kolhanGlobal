@@ -55,7 +55,6 @@ const Footer = () => {
           <h3 className="text-white font-semibold">Contact Us</h3>
           <p className="text-sm text-slate-400">
             363, Bazar Mohalla, Tughlaqabad Village, Tughlakabad, New Delhi, Delhi 110044<br />
-            New York, NY 10001
           </p>
           <p className="text-sm text-slate-400">Email: anil3284@gmail.com</p>
           <p className="text-sm text-slate-400">Phone: +91 92664 24699</p>

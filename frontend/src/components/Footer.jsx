@@ -54,11 +54,11 @@ const Footer = () => {
         <div className="flex flex-col space-y-3">
           <h3 className="text-white font-semibold">Contact Us</h3>
           <p className="text-sm text-slate-400">
-            123 Logistics Ave, Suite 100<br />
+            363, Bazar Mohalla, Tughlaqabad Village, Tughlakabad, New Delhi, Delhi 110044<br />
             New York, NY 10001
           </p>
-          <p className="text-sm text-slate-400">Email: info@logistics.com</p>
-          <p className="text-sm text-slate-400">Phone: +1 (123) 456-7890</p>
+          <p className="text-sm text-slate-400">Email: anil3284@gmail.com</p>
+          <p className="text-sm text-slate-400">Phone: +91 92664 24699</p>
         </div>
 
       </div>

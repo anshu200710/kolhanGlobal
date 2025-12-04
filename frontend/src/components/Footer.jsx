@@ -8,13 +8,10 @@ const Footer = () => {
 
         {/* Branding */}
         <div className="flex flex-col space-y-4">
-          <a href="#">
-            <img
-              src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/dummyLogo/prebuiltuiDummyLogo.svg"
-              alt="Company Logo"
-              className="h-10"
-            />
-          </a>
+        {/* Logo */}
+        <a href="/" className="font-bold text-xl text-indigo-600 tracking-wide">
+        KOLHAN GLOBAL
+        </a>
           <p className="text-sm text-slate-400">
             Leading logistics solutions that connect businesses worldwide.
           </p>

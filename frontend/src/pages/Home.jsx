@@ -10,8 +10,7 @@ export default function Home() {
       <Hero />
       <ShippingOptions />
       <Stats />
-      <WhyChooseUs />        
-      <Footer />
+      <WhyChooseUs />
     </div>
   );
 }

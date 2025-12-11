@@ -88,21 +88,21 @@ const Contact = () => {
             <MapPin size={28} color="#6366F1" />
             <div>
               <h3 className="text-lg font-semibold text-gray-800">Our Location</h3>
-              <p className="text-gray-600">123 Courier Lane, FastCity, DeliveryState, 45678</p>
+              <p className="text-gray-600">363, Bazar Mohalla, Tughlaqabad Village, Tughlakabad, New Delhi, Delhi 110044</p>
             </div>
           </div>
           <div className="flex items-center gap-4">
             <Mail size={28} color="#6366F1" />
             <div>
               <h3 className="text-lg font-semibold text-gray-800">Email Us</h3>
-              <p className="text-gray-600">support@courierservice.com</p>
+              <p className="text-gray-600">kolhanglobal@gmail.com</p>
             </div>
           </div>
           <div className="flex items-center gap-4">
             <Phone size={28} color="#6366F1" />
             <div>
               <h3 className="text-lg font-semibold text-gray-800">Call Us</h3>
-              <p className="text-gray-600">+1 234 567 890</p>
+              <p className="text-gray-600">+91 92664 24699</p>
             </div>
           </div>
         </div>

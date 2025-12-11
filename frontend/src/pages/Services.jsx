@@ -31,22 +31,22 @@ const Services = () => {
     {
       title: "Same-Day Delivery",
       description: "Fast and reliable delivery of packages within the same day to your customers.",
-      image: assets.service4,
+      image: assets.service1,
     },
     {
-      title: "International Shipping",
+      title: "International Courier",
       description: "Seamless shipping services for international orders with real-time tracking.",
-      image: assets.service1,
+      image: assets.service2,
     },
     {
       title: "Warehousing & Storage",
       description: "Secure and organized storage solutions for inventory management.",
-      image: assets.service2,
+      image: assets.service3,
     },
     {
       title: "Courier Tracking",
       description: "Real-time tracking system to keep customers informed about package status.",
-      image: assets.service3,
+      image: assets.service4,
     },
   ];
 

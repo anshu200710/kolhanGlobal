@@ -1,4 +1,7 @@
 import React from "react";
+import expressDeliveryImg from "../assets/express-delivery.svg";
+import freightShippingImg from "../assets/freight-shipping.svg";
+import warehouseImg from "../assets/warehouse-storage.svg";
 
 const ShippingOptions = () => {
   return (
@@ -19,7 +22,7 @@ const ShippingOptions = () => {
         <div className="max-w-80 hover:-translate-y-0.5 transition duration-300">
           <img
             className="rounded-xl"
-            src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800"
+            src={expressDeliveryImg}
             alt="Express Delivery"
           />
           <h3 className="text-base font-semibold text-slate-700 mt-4">
@@ -34,7 +37,7 @@ const ShippingOptions = () => {
         <div className="max-w-80 hover:-translate-y-0.5 transition duration-300">
           <img
             className="rounded-xl"
-            src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800"
+            src={freightShippingImg}
             alt="Freight Shipping"
           />
           <h3 className="text-base font-semibold text-slate-700 mt-4">
@@ -49,7 +52,7 @@ const ShippingOptions = () => {
         <div className="max-w-80 hover:-translate-y-0.5 transition duration-300">
           <img
             className="rounded-xl"
-            src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800"
+            src={warehouseImg}
             alt="Warehouse & Storage"
           />
           <h3 className="text-base font-semibold text-slate-700 mt-4">

@@ -28,7 +28,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="w-full py-20 bg-gray-50 flex flex-col items-center px-4 relative">
+    <section className="w-full py-5 bg-gray-50 flex flex-col items-center px-4 relative">
       <h2 className="text-4xl font-bold text-gray-900 mb-3 text-center">Contact Us</h2>
       <p className="text-gray-600 text-lg mb-12 max-w-2xl text-center">
         Reach out to us for any courier inquiries or support.

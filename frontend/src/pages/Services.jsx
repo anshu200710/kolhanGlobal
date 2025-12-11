@@ -51,9 +51,9 @@ const Services = () => {
   ];
 
   return (
-    <section className="w-full py-20 px-10 bg-gray-50 flex flex-col items-center">
-      <h2 className="text-4xl font-bold text-gray-900 mb-3">Our Courier Services</h2>
-      <p className="text-gray-600 text-lg mb-12 w-3/5 text-center">
+    <section className="w-full py-5 px-10 bg-gray-50 flex flex-col items-center">
+      <h2 className="text-4xl font-bold text-gray-900 mb-3 text-center">Our Courier Services</h2>
+      <p className="text-gray-600 text-lg mb-12 text-center">
         Discover our range of courier and delivery services designed to get your packages where they need to be, efficiently and securely.
       </p>
 

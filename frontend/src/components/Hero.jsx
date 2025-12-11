@@ -64,7 +64,12 @@ const Hero = () => {
         </button>
 
         <img
-          className="rounded-[50px] mt-16 h-72 w-full object-cover rounded-b-none max-w-5xl"
+          className="sm:hidden rounded-[50px] mt-16 h-72 w-full object-cover rounded-b-none max-w-5xl"
+          src={assets.heroMobile}
+          alt="Logistics trucks warehouse"
+        />
+        <img
+          className="hidden sm:block rounded-[50px] mt-16 h-72 w-full object-cover rounded-b-none max-w-5xl"
           src={assets.hero}
           alt="Logistics trucks warehouse"
         />

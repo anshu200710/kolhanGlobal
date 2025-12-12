@@ -4,7 +4,7 @@ import { assets } from '../assets/assets';
 
 const About = () => {
   return (
-    <div className='w-full py-5 bg-gray-50 flex flex-col items-center'>
+    <div className='w-full py-15 bg-gray-50 flex flex-col items-center'>
       <h1 className="text-3xl font-semibold text-center mx-auto">About Our Courier Service</h1>
       <p className="text-sm text-slate-500 text-center mt-2 max-w-md mx-auto">
         Delivering packages with speed, reliability, and care — our courier solutions are tailored for efficiency and customer satisfaction.
